@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Eat-end-spilite/static/css/main.a4c28843.css",
+    "main.js": "/Eat-end-spilite/static/js/main.b2758b58.js",
+    "index.html": "/Eat-end-spilite/index.html",
+    "main.a4c28843.css.map": "/Eat-end-spilite/static/css/main.a4c28843.css.map",
+    "main.b2758b58.js.map": "/Eat-end-spilite/static/js/main.b2758b58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c28843.css",
+    "static/js/main.b2758b58.js"
+  ]
+}
